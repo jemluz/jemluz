@@ -1,25 +1,20 @@
 # jemluz
 Oie! Muito prazer, me chamo Jemima e sou uma estudante de sistemas e mídias que vagueia procurando um projetinho pra sujar as mãos. Atualmente tenho focado no desenvolvimento de aplicações em flutter e em noções de full cycle.
 
-## Sobre
-Salvador/BA ✈️ Fortaleza/CE 
 
-✉️  contatojemima@gmail.com
+Natural de Salvador/BA ✈️ Morando em Fortaleza/CE 
 
 🔗  [Likedin](https://www.linkedin.com/in/jemluz/)
 
-💻  [Portfófio](https://meindexe.vercel.app)
+### De onde eu vim
 
+- [✔] da barriga da minha mãe
+- [✔]  ```03/2016 - atual```  > **Universidade Federal do Ceará (UFC)**  
+Bacharelado em Sistemas e Mídias Digitais
 
+### Por onde passei
 
-## De onde eu vim
-* **Universidade Federal do Ceará (UFC)** <br> 
-Bacharelado em Sistemas e Mídias Digitais <br>
-(2016 - Atual)
-
-## Por onde passei
-
-### Container Digital Júnior
+#### Container Digital Júnior 💙💚❤️
    ```06/2016```  > **Treinee**  
 > participei do desenvolvimento dos projetos : 
    * Site do Observatório Eleitoral
@@ -33,7 +28,7 @@ Bacharelado em Sistemas e Mídias Digitais <br>
   * Duração de 8 meses.
 
 
-### JGV
+#### JGV
   ``` 08/2018 ``` > **Estágio** 
   * Atuei no desenvolvimento do design e programação da interface do aplicativo Crednosso
   
@@ -44,17 +39,17 @@ Bacharelado em Sistemas e Mídias Digitais <br>
   * Também fui responsável pelo design do [site da JGV](https://www.jgv.net.br/) e do aplicativo <br> 
   [CredDocs](https://play.google.com/store/apps/details?id=br.com.appcreddocs)
 
-### Ootz
+#### Ootz
   ``` 11/2020 - 03/2021 ``` > **UX Developer** 
   * Atuei no design de interface de um E-commerce e desenvolvimento frontend com vue.js.
 
-### bHave
+#### bHave
   ``` 04/2021 - Atual ``` > **Dev Flutter** 
   * Redesign do aplicativo para a versão 2.0 em flutter.
   * Desenvolvimento frontend com flutter.
 
 
-## O que aprontei
+### O que aprontei
 
 ### [Minha Geladeira](https://github.com/jemluz/flutter-fridge)
   
