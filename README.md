@@ -25,8 +25,8 @@ Bacharelado em Sistemas e Mídias Digitais
 > Um aplicativo não ortodoxo de geladeira, para você que quer um jeito não ortodoxo de usar a sua geladeira. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=flutter-fridge)](https://github.com/jemluz/flutter-fridge) 
 
-> Uma interface de e-commerce em vue.js
+> Uma interface de e-commerce em vue.js. Foi bom pra aprender tailwind e melhorar as skills em componentes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=letrun)](https://github.com/jemluz/letrun)
 
-> Uma interface de dashboard em vue.js
+> Uma interface de dashboard em vue.js. Pense nuns painéis bonitinhos...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=clone-fxp)](https://github.com/jemluz/clone-fxp)
