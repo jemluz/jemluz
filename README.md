@@ -32,6 +32,7 @@ Bacharelado em Sistemas e Mídias Digitais
 > ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 
 > Uma interface de e-commerce, e uma interface de dashboard em vue.js, respectivamente. E um frontend básico para testar um crud.
+> 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=letrun)](https://github.com/jemluz/letrun) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=clone-fxp)](https://github.com/jemluz/clone-fxp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=front-perguntas)](https://github.com/jemluz/front-perguntas)
 
