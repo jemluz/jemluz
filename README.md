@@ -24,7 +24,9 @@ Bacharelado em Sistemas e Mídias Digitais
 > 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=meindexe)](https://github.com/jemluz/meindexe) 
 
-> ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) Um aplicativo não ortodoxo de geladeira, para você que quer um jeito não ortodoxo de usar a sua geladeira. 
+> ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+
+> Um aplicativo não ortodoxo de geladeira, para você que quer um jeito não ortodoxo de usar a sua geladeira. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=flutter-fridge)](https://github.com/jemluz/flutter-fridge)  
 
 > ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -33,8 +35,10 @@ Bacharelado em Sistemas e Mídias Digitais
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=letrun)](https://github.com/jemluz/letrun) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=clone-fxp)](https://github.com/jemluz/clone-fxp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=front-perguntas)](https://github.com/jemluz/front-perguntas)
 
-> ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) Um pouco da minha experiência com backend. 
+> ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
+
+> Um pouco da minha experiência com backend. Uns estudos de crud, tdd, e upload de arquivos usando AWS.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=upload-arquivos-back)](https://github.com/jemluz/upload-arquivos-back)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=crud-perguntas)](https://github.com/jemluz/crud-perguntas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=tdd)](https://github.com/jemluz/tdd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=upload-arquivos-back)](https://github.com/jemluz/upload-arquivos-back)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=estudo-crud)](https://github.com/jemluz/estudo-crud)
