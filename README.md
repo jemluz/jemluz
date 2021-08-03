@@ -35,11 +35,7 @@ Bacharelado em Sistemas e Mídias Digitais
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=letrun)](https://github.com/jemluz/letrun) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=clone-fxp)](https://github.com/jemluz/clone-fxp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=front-perguntas)](https://github.com/jemluz/front-perguntas)
 
-> ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) Um pouco da minha experiência com backend. 
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+> ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) Um pouco da minha experiência com backend. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=crud-perguntas)](https://github.com/jemluz/crud-perguntas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=tdd)](https://github.com/jemluz/tdd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=upload-arquivos-back)](https://github.com/jemluz/upload-arquivos-back)
