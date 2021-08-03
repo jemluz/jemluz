@@ -6,7 +6,7 @@ Natural de Salvador/BA ✈️ Morando em Fortaleza/CE
 ### De onde eu vim
 
 - [✔] da barriga da minha mãe 
-- [✔]  ```03/2016 - atual```  > **daUniversidade Federal do Ceará (UFC)**  
+- [✔]  ```03/2016 - atual```  > **da Universidade Federal do Ceará (UFC)**  
 Bacharelado em Sistemas e Mídias Digitais
  
 ### Por onde passei
