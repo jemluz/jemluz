@@ -12,9 +12,9 @@ Bacharelado em Sistemas e Mídias Digitais
 ### Por onde passei
 
 #### 💙💚❤️ Container Digital Júnior  > ```06/2016```  *Treinee*  > ```04/2018 - 12/2018```  *Diretora de Projetos*
-#### 💜🧡 JGV > ``` 08/2018 ``` *Estágio*  > ``` 09/2019 ``` *Dev Frontend Júnior*
-#### 💛🖤 Ootz > ``` 11/2020 - 03/2021 ``` *UX Developer* 
-#### 🤍💙 bHave > ``` 04/2021 - Atual ``` *Dev Flutter*
+#### 🧡💜🧡 JGV > ``` 08/2018 ``` *Estágio*  > ``` 09/2019 ``` *Dev Frontend Júnior*
+#### 💛🖤💛 Ootz > ``` 11/2020 - 03/2021 ``` *UX Developer* 
+#### 🤍💙🤍 bHave > ``` 04/2021 - Atual ``` *Dev Flutter*
 
 🔗  [Mais detalhes no meu linkedin](https://www.linkedin.com/in/jemluz/)
 
@@ -35,7 +35,7 @@ Bacharelado em Sistemas e Mídias Digitais
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=letrun)](https://github.com/jemluz/letrun) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=clone-fxp)](https://github.com/jemluz/clone-fxp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=front-perguntas)](https://github.com/jemluz/front-perguntas)
 
-> ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
+> ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 > Um pouco da minha experiência com backend. Uns estudos de crud, tdd, e upload de arquivos usando AWS.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jemluz&repo=upload-arquivos-back)](https://github.com/jemluz/upload-arquivos-back)
