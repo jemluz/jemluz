@@ -15,7 +15,8 @@ Bacharelado em Sistemas e Mídias Digitais
 #### 🧡💜🧡 JGV > ``` 08/2018 ``` *Estágio*  > ``` 09/2019 ``` *Dev Frontend Júnior*
 #### 💛🖤💛 Ootz > ``` 11/2020 - 03/2021 ``` *UX Developer* 
 
-#### 🤍💙🤍 bHave > ``` 04/2021 - Atual ``` *Dev Flutter*
+#### 🤍💙🤍 bHave > ``` 04/2021 - 09/2021 ``` *Dev Flutter*
+#### 🤍💙🤍 bHave > ``` 10/2021 - Atual ``` *Designer UX*
 #### 🖤🤍🖤 HDN.digital > ``` 08/2021 - Atual ``` *Analista de Sistemas Pleno*
 
 🔗  [Mais detalhes no meu linkedin](https://www.linkedin.com/in/jemluz/)
