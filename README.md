@@ -1,5 +1,5 @@
 # Jemima Luz
-Atualmente tenho focado no desenvolvimento de aplicações em flutter e em noções de full cycle.
+Atuando profissionalmente com angular e ensinando programação web para iniciantes!
 
 Natural de Salvador/BA ✈️ Morando em Fortaleza/CE 
 
