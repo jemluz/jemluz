@@ -1,12 +1,12 @@
 # Jemima Luz
 Atuando profissionalmente com angular e ensinando programação web para iniciantes!
 
-Natural de Salvador/BA ✈️ Morando em Fortaleza/CE 
+Natural de Salvador/BA ✈️ Morando em Fortaleza/CE e ciscando em Campinas/SP volta e meia
 
 ### De onde eu vim
 
 - [✔] da barriga da minha mãe 
-- [✔]  ```03/2016 - atual```  > **da Universidade Federal do Ceará (UFC)**  
+- [✔]  ```03/2016 - 12/2022```  > **da Universidade Federal do Ceará (UFC)**  
 Bacharelado em Sistemas e Mídias Digitais
  
 ### Por onde passei
