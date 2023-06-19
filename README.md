@@ -1,5 +1,5 @@
 # Jemima Luz
-Atuando profissionalmente com angular e ensinando programação web para iniciantes!
+Atuando profissionalmente com angular/react e ensinando programação web para iniciantes!
 
 Natural de Salvador/BA ✈️ Morando em Fortaleza/CE e ciscando em Campinas/SP volta e meia
 
