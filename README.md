@@ -1,22 +1,23 @@
 # Jemima Luz
-Atuando profissionalmente com angular/react e ensinando programação web para iniciantes!
 
-Natural de Salvador/BA ✈️ Morando em Fortaleza/CE e ciscando em Campinas/SP volta e meia
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+</p>
 
-### De onde eu vim
+Frontend developer since 2018. Specialized in React and Next.
 
-- [✔] da barriga da minha mãe 
-- [✔]  ```03/2016 - 12/2022```  > **da Universidade Federal do Ceará (UFC)**  
-Bacharelado em Sistemas e Mídias Digitais
- 
-### Por onde passei
+I am passionate about seeing ideas materialize, which has rooted me deeply in the development field. Being able to see subjective concepts take shape in reality is truly something that fascinates me.
 
-#### 💙💚❤️ Container Digital Júnior  > ```06/2016```  *Treinee*  > ```04/2018 - 12/2018```  *Diretora de Projetos*
-#### 🧡💜🧡 JGV > ``` 08/2018 ``` *Estágio*  > ``` 09/2019 ``` *Dev Frontend Júnior*
-#### 💛🖤💛 Ootz > ``` 11/2020 - 03/2021 ``` *UX Developer* 
+😍 Inclined to document almost everything. (bcs memory reasons)
 
-#### 🤍💙🤍 bHave > ``` 04/2021 - 09/2021 ``` *Dev Flutter*
-#### 🤍💙🤍 bHave > ``` 10/2021 - 02/2022 ``` *Designer UX*
-#### 🖤🤍🖤 HDN.digital ``` 08/2021 ``` > 💛🤍🖤 Levva ``` Atual ``` *Analista de Sistemas Pleno*
+### 🍸🎉 Last achievement
+[React Especialization](https://github.com/jemluz/react-specialization) with [@Rocketseat](https://github.com/Rocketseat)
 
-🔗  [Mais detalhes no meu linkedin](https://www.linkedin.com/in/jemluz/)
+### 🚀 Current challenge
+Learning how to build end-to-end applications recreating from scratch a [Tabnews.com.br clone](https://github.com/jemluz/clone-tabnews) with [@filipedeschamps](https://github.com/filipedeschamps)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemluz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemluz&layout=compact&theme=buefy&hide_border=true" /> -->
